@@ -1,0 +1,78 @@
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe.config
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe.manifest
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.application
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.pdb
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\bin\Debug\Interop.iTunesLib.dll
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\bin\Debug\WPFToolkit.dll
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\ShinyBlue.baml
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\Splash.baml
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\Window1.baml
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\App.baml
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\Splash.g.cs
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\Window1.g.cs
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\App.g.cs
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder_MarkupCompile.cache
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.g.resources
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.Properties.Resources.resources
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.csproj.GenerateResource.Cache
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.exe.manifest
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.application
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.exe
+C:\Users\clatonh\Documents\Visual Studio 2008\Projects\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.pdb
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe.config
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe.manifest
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.application
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.pdb
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\WPFToolkit.dll
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\WPFToolkit.pdb
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\ShinyBlue.baml
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\Splash.baml
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\Window1.baml
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\App.baml
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\Splash.g.cs
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\Window1.g.cs
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\App.g.cs
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder_MarkupCompile.cache
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.g.resources
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.Properties.Resources.resources
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.csproj.GenerateResource.Cache
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.exe.manifest
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.application
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.exe
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.pdb
+C:\Users\clatonh\Desktop\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder_Content.g.cs
+E:\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe.config
+E:\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.exe
+E:\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.pdb
+D:\SkyDrive\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe.config
+D:\SkyDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.exe
+D:\SkyDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.pdb
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.csprojAssemblyReference.cache
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\ShinyBlue.baml
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\Splash.baml
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\Window1.baml
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\App.baml
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\Splash.g.cs
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\Window1.g.cs
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\App.g.cs
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder_Content.g.cs
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder_MarkupCompile.cache
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.g.resources
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.Properties.Resources.resources
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.csproj.GenerateResource.cache
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.csproj.CoreCompileInputs.cache
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.exe
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.pdb
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe.config
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe.manifest
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.application
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.exe
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\LyricsFinder.pdb
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\bin\Debug\WPFToolkit.pdb
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.exe.manifest
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.application
+C:\Users\clatonh\OneDrive\LiveMesh\LyricsFinder\LyricsFinder\obj\Debug\LyricsFinder.csproj.CopyComplete
